@@ -2,8 +2,7 @@
 
 ## part I
 SLU classification data obtain
-
-客服场景意图分类
+意图分类数据
 
 
 ## part II
@@ -17,3 +16,6 @@ ASR recognition
 Task classification
 
 - 预训练语言模型  ca_finetune,kl loss, elmo pretrain
+- 输入数据格式 lattice  nbest 
+- 模型选择 CNN RNN Transformer
+
